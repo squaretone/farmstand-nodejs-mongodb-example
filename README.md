@@ -32,3 +32,8 @@ That's it! You can now check out your application at:
     http://<appname>-<domain>.rhcloud.com
 
 OpenShift's pre-build hooks will populate your empty mongodb instance with the right database and the farmstand locations, originally taken from [data.gov](https://explore.data.gov/Agriculture/Farmers-Markets-Search/ugii-uvsz).
+
+License
+-------
+
+This code is dedicated to the public domain to the maximum extent permitted by applicable law, pursuant to CC0 (http://creativecommons.org/publicdomain/zero/1.0/)
