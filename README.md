@@ -15,7 +15,7 @@ Create a NodeJS application
 
 Add MongoDB
 
-    rhc app cartridge add -a <appname> -c mongodb-2.0
+    rhc cartridge add -a <appname> -c mongodb-2.0
 
 Add this upstream repo
 
